@@ -1,0 +1,24 @@
+<form #form="ngForm" (submit)="onSubmit(form)">
+    <input type="hidden" name="paymentDetalId" [value]="service.formData.paymentDetalId">
+    <div class="mb-3">
+        <label class="mb-2">Card Owner Name</label>
+        <input type="text" required class="form-control" placeholder="Name of Card owner" #cardOwnerName="ngModel" name="cardOwnerName" [(ngModel)]="service.formData.cardOwnerName">
+    </div>
+    <div class="mb-3">
+        <label class="mb-2">Card Number</label>
+        <input class="form-control" required placeholder="16 digits number" #cardNumber="ngModel" name="cardNumber" [(ngModel)]="service.formData.cardNumber">
+    </div>
+    <div class="row">
+        <div class="mb-3 col-6">
+            <label class="mb-2">Valid Through</label>
+            <input type="text" required class="form-control" placeholder="MM/YY" #expireionDate="ngModel" name="expireionDate" [(ngModel)]="service.formData.expireionDate">
+        </div>
+        <div class="mb-3 col-6">
+            <label class="mb-2">Security Code</label>
+            <input class="form-control" required placeholder="CSV" #securityCode="ngModel" name="securityCode" [(ngModel)]="service.formData.securityCode">
+        </div>
+    </div>
+    <div class="d-grid">
+        <button class="btn btn-success" type="submit">Submit</button>
+    </div>
+</form>
