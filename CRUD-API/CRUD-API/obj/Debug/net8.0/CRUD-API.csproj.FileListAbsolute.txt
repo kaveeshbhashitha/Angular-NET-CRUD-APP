@@ -464,3 +464,4 @@ C:\Users\Kaveesh\Pictures\ADNM\CRUD-API\CRUD-API\obj\Debug\net8.0\refint\CRUD-AP
 C:\Users\Kaveesh\Pictures\ADNM\CRUD-API\CRUD-API\obj\Debug\net8.0\CRUD-API.pdb
 C:\Users\Kaveesh\Pictures\ADNM\CRUD-API\CRUD-API\obj\Debug\net8.0\CRUD-API.genruntimeconfig.cache
 C:\Users\Kaveesh\Pictures\ADNM\CRUD-API\CRUD-API\obj\Debug\net8.0\ref\CRUD-API.dll
+C:\Users\Kaveesh\Pictures\ADNM\CRUD-API\CRUD-API\obj\Debug\net8.0\CRUD-API.sourcelink.json

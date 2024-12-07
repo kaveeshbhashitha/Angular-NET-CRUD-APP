@@ -1,7 +1,9 @@
-<div class="container py-4">
-  <div class="row">
-    <div class="col-8 offset-2">
-      <app-payment-details></app-payment-details>
-    </div>
-  </div>
+<div class="container mt-5">
+  <nav class="nav">
+      <a routerLink="/" routerLinkActive="active" class="nav-item nav-link">Home</a>
+      <a routerLink="/about" routerLinkActive="active" class="nav-item nav-link">About</a> 
+      <a routerLink="/contact" routerLinkActive="active" class="nav-item nav-link">Contact</a>
+    </nav>
+    <hr />
+    <router-outlet></router-outlet>
 </div>

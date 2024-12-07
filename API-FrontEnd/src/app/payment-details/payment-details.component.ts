@@ -32,7 +32,7 @@ export class PaymentDetailsComponent implements OnInit{
           },
           error: err => {
             console.log(err);
-            this.toastr.info('Successfully Deleted', 'Payment Detail Register');
+            this.toastr.error('Successfully Deleted', 'Payment Detail Register');
           }
         });
     }

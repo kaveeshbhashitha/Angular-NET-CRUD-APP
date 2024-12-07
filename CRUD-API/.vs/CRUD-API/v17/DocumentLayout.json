@@ -38,8 +38,7 @@
               "RelativeToolTip": "CRUD-API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T08:40:43.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T08:40:43.488Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "CRUD-API\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T07:36:02.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T07:36:02.471Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "CRUD-API\\Models\\PaymentDetails.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:00:21.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T11:00:21.942Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "CRUD-API\\Controllers\\PaymentDetailController.cs",
               "ToolTip": "C:\\Users\\Kaveesh\\Pictures\\ADNM\\CRUD-API\\CRUD-API\\Controllers\\PaymentDetailController.cs",
               "RelativeToolTip": "CRUD-API\\Controllers\\PaymentDetailController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T10:52:02.583Z",
               "EditorCaption": ""
